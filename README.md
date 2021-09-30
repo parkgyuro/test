@@ -28,4 +28,4 @@ h1{
 
 ***
 
-<img src="./test/img/img-test" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="img-test"></img><br/>
+<img src="./img/img-test.jpg" width="450px" title="px(픽셀) 크기 설정" alt="img-test"></img><br/>
